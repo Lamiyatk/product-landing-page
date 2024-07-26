@@ -1,0 +1,91 @@
+.nav-head{
+    font-size:16px;
+    border: 0%;
+    margin: 0%;
+}
+.nav-header{
+    display: flex;
+    justify-content: space-between;
+    background-color:burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.product-container{
+    text-align: left;
+}
+.elements{
+    display: flex;
+    justify-content: end;
+    gap: 50px;
+}
+.logo{
+    font-size: 20px;
+    padding: 1px;
+}
+.container {
+    display: flex;
+    text-decoration: overline;
+    font-style: italic;
+
+}
+img {
+    height: 300px;
+    width: 400px;
+    display: flex;
+}
+
+h2{
+    text-align: center;
+    background-color:white;
+    font-size: 30px;
+    text-decoration-line: underline;
+}
+
+th{
+    text-align: center;
+}
+.product-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.images {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+
+}
+h3{
+    font-size: 50px;
+   text-decoration: overline ;
+   background-color: burlywood;
+   
+}
+p{
+    text-align: left;
+    font-size: 20px;
+}
+.product { 
+    text-align:right;
+    font-size: 30px;
+    background-color: blanchedalmond;
+}
+.text{
+    text-align:center;
+    font-size: 40px;
+    font-style: italic;
+    background-color: blanchedalmond;
+}
+.sign {
+    text-align: center;
+    font-size: 30px;
+}
+.signup-button {
+    text-align:center;
+    font-size: 20px;  
+    font-style: italic;
+}
+    
+
+
